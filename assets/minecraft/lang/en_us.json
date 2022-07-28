@@ -1258,7 +1258,7 @@
   "block.minecraft.bed.obstructed": "This bed is obstructed",
   "block.minecraft.bed.no_sleep": "You can sleep only at night or during thunderstorms",
   "block.minecraft.bed.too_far_away": "You may not rest now; the bed is too far away",
-  "block.minecraft.bed.not_safe": "You may not rest now; there are monsters nearby",
+  "block.minecraft.bed.not_safe": "You may not rest now; there are hot singles in your area",
   "block.minecraft.spawn.not_valid": "You have no home bed or charged respawn anchor, or it was obstructed",
   "block.minecraft.set_spawn": "Respawn point set",
   "block.minecraft.oak_trapdoor": "Oak Trapdoor",
