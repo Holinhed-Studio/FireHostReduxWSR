@@ -1,20 +1,19 @@
 {
-	"parent": "item/generated",
-	"textures": {
-		"layer0": "item/netherite_pickaxe"
-	},
-
-	"overrides": [{
-		"predicate": {
-			"custom_model_data": 46856
-		},
-		"model": "item/wat_silk_pickaxe"
-	}],
-
-	"overrides": [[{
-		"predicate": {
-			"custom_model_data": 46857
-		},
-		"model": "item/wat_fortune_pickaxe"
-	}]]
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/netherite_pickaxe"
+    },
+    "overrides": [{
+            "predicate": {
+                "custom_model_data": 46856
+            },
+            "model": "item/wat_silk_pickaxe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 46857
+            },
+            "model": "item/wat_fortune_pickaxe"
+        }
+    ]
 }
