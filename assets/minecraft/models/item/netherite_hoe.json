@@ -1,0 +1,13 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/netherite_hoe"
+	},
+
+	"overrides": [{
+		"predicate": {
+			"custom_model_data": 46855
+		},
+		"model": "item/wat_hoe"
+	}]
+}
