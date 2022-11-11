@@ -1,0 +1,13 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/nether_star"
+	},
+
+	"overrides": [{
+		"predicate": {
+			"custom_model_data": 46853
+		},
+		"model": "item/netherite_star_core"
+	}]
+}
